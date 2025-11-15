@@ -1,0 +1,242 @@
+[
+  {
+    "id": "faq-001",
+    "title": "Clinic Overview & Location",
+    "text": "HealthCare Plus Clinic is located at 245 Green Street, Suite 300, Boston, MA in the Green Medical Plaza on the third floor. Main entrance faces Green Street; the patient drop-off lane is at the west side."
+  },
+  {
+    "id": "faq-002",
+    "title": "Parking Information",
+    "text": "Parking is free for the first two hours in the attached covered garage (enter on Willow Ave). Additional hours are billed at $3/hour. Accessible parking and elevator access are available from the garage."
+  },
+  {
+    "id": "faq-003",
+    "title": "Public Transportation",
+    "text": "Public transit options: Green Line to Central Station (0.4 miles) and bus routes 15 and 42 stop at Green & 3rd. Use Central Station exit B and walk 5 minutes north."
+  },
+  {
+    "id": "faq-004",
+    "title": "Clinic Hours",
+    "text": "We are open Monday\u2013Friday 8:00 AM to 6:00 PM and Saturday 9:00 AM to 2:00 PM. Closed Sundays and federal holidays. Urgent care hours differ\u2014call the clinic for same-day availability."
+  },
+  {
+    "id": "faq-005",
+    "title": "Accepted Insurance Providers",
+    "text": "We accept Aetna, Cigna, UnitedHealthcare, Blue Cross Blue Shield, Humana, and Medicare. If your plan requires a referral, please bring the referral form to your appointment."
+  },
+  {
+    "id": "faq-006",
+    "title": "Payment Methods",
+    "text": "We accept credit/debit cards, Apple Pay, Google Pay, HSA/FSA cards, and cash. Online payments are available through our patient portal. Payment plans are offered for qualifying balances."
+  },
+  {
+    "id": "faq-007",
+    "title": "Billing & Copays",
+    "text": "Copays are collected at check-in. Outstanding balances can be paid online or by calling billing. Insurance claim submission is handled by our billing department."
+  },
+  {
+    "id": "faq-008",
+    "title": "Cancellation Policy",
+    "text": "Please cancel or reschedule at least 24 hours in advance. Late cancellations or no-shows may incur a $35 fee. Exceptions for emergencies may apply\u2014call the clinic to discuss."
+  },
+  {
+    "id": "faq-009",
+    "title": "Late Arrival Policy",
+    "text": "If you arrive more than 15 minutes late, we may need to reschedule to avoid delaying other patients. Please call ahead if you expect to be late."
+  },
+  {
+    "id": "faq-010",
+    "title": "COVID-19 Guidelines",
+    "text": "Masks are optional for most patients; required for symptomatic patients. If you test positive for COVID-19, please reschedule non-urgent visits. Telehealth is available for appropriate appointments."
+  },
+  {
+    "id": "faq-011",
+    "title": "First Visit Documents",
+    "text": "For your first visit bring government ID, insurance card, medication list, and any referral or prior records. Pediatric visits: bring immunization records and birth certificate if required."
+  },
+  {
+    "id": "faq-012",
+    "title": "What to Expect at a General Consultation",
+    "text": "A general consultation typically lasts 30 minutes and includes history, exam, and a treatment plan. Bring a list of medications and current symptoms."
+  },
+  {
+    "id": "faq-013",
+    "title": "Follow-up Visit Details",
+    "text": "Follow-up visits are usually 15 minutes and focus on reviewing progress and medication adjustments. Bring recent lab results if applicable."
+  },
+  {
+    "id": "faq-014",
+    "title": "Physical Exam Requirements",
+    "text": "Full physical exams take about 45 minutes. Wear comfortable clothes; fasting may be required for some labs\u2014your appointment confirmation will state if fasting is needed."
+  },
+  {
+    "id": "faq-015",
+    "title": "Specialist Consultation",
+    "text": "Specialist consultations (cardiology, orthopedics, etc.) are typically 60 minutes. Bring prior imaging, lab results, and referral documents if you have them."
+  },
+  {
+    "id": "faq-016",
+    "title": "Walk-In Policy",
+    "text": "Walk-ins for minor illnesses are accepted 8:00 AM\u201310:00 AM Monday\u2013Friday, subject to provider availability. For guaranteed times please schedule an appointment."
+  },
+  {
+    "id": "faq-017",
+    "title": "Telehealth Appointments",
+    "text": "Telehealth visits are available for consults and follow-ups. Not available for procedures or full physical exams. You will receive a secure link via email prior to the appointment."
+  },
+  {
+    "id": "faq-018",
+    "title": "Prescription Refills",
+    "text": "Refill requests can be submitted via the patient portal or by calling our prescription line. Some medications require an in-person visit before refill."
+  },
+  {
+    "id": "faq-019",
+    "title": "Urgent vs Routine Care",
+    "text": "If symptoms are severe (chest pain, shortness of breath, severe bleeding) call 911. For urgent but non-life-threatening issues, call the clinic for same-day options."
+  },
+  {
+    "id": "faq-020",
+    "title": "Lab Tests & Results",
+    "text": "Routine lab tests are processed within 48\u201372 hours. You can view results in the patient portal or receive them via the contact method you chose at check-in."
+  },
+  {
+    "id": "faq-021",
+    "title": "Immunizations & Vaccines",
+    "text": "We provide routine adult and pediatric vaccines. Bring a vaccine record for pediatric visits. Some vaccines may require a separate billing authorization."
+  },
+  {
+    "id": "faq-022",
+    "title": "Pre-Procedure Instructions",
+    "text": "If you have a procedure scheduled, follow fasting or medication instructions provided in your appointment confirmation. Bring an adult escort if sedation is required."
+  },
+  {
+    "id": "faq-023",
+    "title": "Interpreter Services",
+    "text": "Interpreter services are available upon request. Please request language support at least 48 hours before your appointment."
+  },
+  {
+    "id": "faq-024",
+    "title": "Accessibility Services",
+    "text": "Wheelchair access and ADA-compliant restrooms are available. If you need additional accommodations, notify us when booking."
+  },
+  {
+    "id": "faq-025",
+    "title": "Privacy & HIPAA",
+    "text": "We follow HIPAA rules to protect your health information. For questions about privacy practices, view our Notice of Privacy Practices on the website."
+  },
+  {
+    "id": "faq-026",
+    "title": "How to Prepare for a Pediatric Visit",
+    "text": "Bring immunization records, a list of medications, and any growth concerns. For newborn visits bring birth records and feeding history."
+  },
+  {
+    "id": "faq-027",
+    "title": "Insurance Verification Process",
+    "text": "Insurance is verified at check-in. If prior authorization is required for specialist services, we will notify you and help obtain necessary approvals."
+  },
+  {
+    "id": "faq-028",
+    "title": "Referrals to Specialists",
+    "text": "We provide referrals when clinically indicated. Some specialist visits may require a prior authorization from your insurance."
+  },
+  {
+    "id": "faq-029",
+    "title": "Appointment Confirmation & Reminders",
+    "text": "After booking you receive an email confirmation. We send automated reminders via email & SMS 48 and 24 hours before the appointment."
+  },
+  {
+    "id": "faq-030",
+    "title": "How to Reschedule an Appointment",
+    "text": "Reschedule via the patient portal, by phone, or ask the agent to reschedule. Try to reschedule at least 24 hours before to avoid late fees."
+  },
+  {
+    "id": "faq-031",
+    "title": "No-Show Policy",
+    "text": "No-shows may be charged a fee. Excessive no-shows could affect future scheduling privileges. Contact billing for hardship considerations."
+  },
+  {
+    "id": "faq-032",
+    "title": "Security of Online Portal",
+    "text": "Our patient portal uses industry-standard encryption. Do not share your portal password; contact support to reset if you lose access."
+  },
+  {
+    "id": "faq-033",
+    "title": "How to Add a Family Member",
+    "text": "Create a family account in the portal or call the clinic to link dependents. Parental consent is required for pediatric care management."
+  },
+  {
+    "id": "faq-034",
+    "title": "Children & Vaccination Appointments",
+    "text": "Bring immunization booklet and child\u2019s ID. Discuss vaccine hesitancy or scheduling multiple vaccines with the clinician."
+  },
+  {
+    "id": "faq-035",
+    "title": "Travel-Related Health Services",
+    "text": "Travel consultations and necessary vaccines are available. Schedule at least 4\u20136 weeks before travel for vaccine series to complete."
+  },
+  {
+    "id": "faq-036",
+    "title": "Smoking Cessation Support",
+    "text": "We offer counseling and pharmacotherapy options to help quit smoking. Ask during booking to schedule longer counseling sessions."
+  },
+  {
+    "id": "faq-037",
+    "title": "Weight Management Programs",
+    "text": "We provide nutrition counseling and weight management referrals. Ask to book an initial assessment for personalized plans."
+  },
+  {
+    "id": "faq-038",
+    "title": "Mental Health Referrals",
+    "text": "We can provide referrals to behavioral health specialists. Urgent psychiatric concerns should be directed to emergency services."
+  },
+  {
+    "id": "faq-039",
+    "title": "Billing Disputes & Questions",
+    "text": "Contact billing at billing@healthcareplus.example or call the number on your statement to discuss disputes or payment arrangements."
+  },
+  {
+    "id": "faq-040",
+    "title": "Medical Records Requests",
+    "text": "Request medical records through the patient portal or by submitting a signed authorization form. Processing typically takes up to 30 days."
+  },
+  {
+    "id": "faq-041",
+    "title": "Provider Credentials",
+    "text": "All providers are board-certified in their specialties. Provider bios and credentials are available on our website under 'Our Team'."
+  },
+  {
+    "id": "faq-042",
+    "title": "Patient Feedback & Complaints",
+    "text": "Submit feedback via the portal or email feedback@healthcareplus.example. We review complaints promptly and respond within 5 business days."
+  },
+  {
+    "id": "faq-043",
+    "title": "How to Contact the Clinic",
+    "text": "Main clinic phone: (555) 123-4567. For billing call (555) 123-4568. Office hours listed on website. Use portal for non-urgent messaging."
+  },
+  {
+    "id": "faq-044",
+    "title": "Emergency Policy",
+    "text": "For life-threatening emergencies call 911. The clinic does not provide emergency room services. For urgent same-day care call the clinic during business hours."
+  },
+  {
+    "id": "faq-045",
+    "title": "After-Hours Care",
+    "text": "For urgent issues after hours, our answering service will connect you to an on-call provider. Use 911 for emergencies."
+  },
+  {
+    "id": "faq-046",
+    "title": "COVID-19 Vaccination Policy",
+    "text": "We offer COVID-19 vaccines by appointment. Bring proof of prior doses if requesting boosters; check eligibility on the CDC website."
+  },
+  {
+    "id": "faq-047",
+    "title": "Telehealth Technical Requirements",
+    "text": "Telehealth requires a device with a camera, microphone, and a modern browser. Test your connection 10 minutes before the appointment."
+  },
+  {
+    "id": "faq-048",
+    "title": "Common Visit Preparations",
+    "text": "Bring medication list, insurance card, and a list of symptoms. For bloodwork, check fasting requirements on your appointment confirmation."
+  }
+]
